@@ -25,6 +25,7 @@ public class SpamCheck {
                 int unsigned_byte = octet > 0 ? octet : octet + 256;
                 query = unsigned_byte + "." + query;
             }
+            System.out.println("query " + query);
             InetAddress.getByName(query);
             return true;
         } catch (UnknownHostException e) {

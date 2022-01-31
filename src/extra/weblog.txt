@@ -1,0 +1,3 @@
+104.111.164.180 unknown - [17/Jun/2013:22:53:58 -0500] "GET /bgs/greenbg.gif HTTP 1.0" 200 50
+205.160.186.76 unknown - [17/Jun/2013:22:53:58 -0500] "GET /test/logo.gif HTTP 1.0" 200 100
+104.111.164.180 unknown - [17/Jun/2013:22:53:58 -0500] "GET /tt/loading.gif HTTP 1.0" 200 200
